@@ -15,8 +15,3 @@ This project implements a Direct Model Reference Adaptive Controller (MRAC) for 
 - **`Ref_Dynamics.m`**: Implements reference system dynamics.
 - **`Runner.m`**: Script for running simulations.
 - **`u_ideal.m`**: Implements the ideal control law.
-
-## Requirements
-
-- MATLAB (version 2023b or newer)
-- Simulink
